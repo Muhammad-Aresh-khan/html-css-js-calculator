@@ -39,13 +39,18 @@ This project utilizes the following **JavaScript concepts**:
 ## Technology Stack  
 - **HTML** 
 - **CSS** 
-- **JavaScript** 
+- **JavaScript**
+  
 ## How to Use  
+ 
 1. Enter numbers and mathematical operators using the on-screen buttons.  
 2. Click "=" to get the result.  
 3. Use **DEL** to remove the last input.  
 4. Use **AC** to reset the calculator.  
-5. Use `%` for **modulus operation**, not percentage calculation.  
+5. Use `%` for **modulus operation**, not percentage calculation.
+6.  
+## Live Demo 🚀
+https://muhammad-aresh-khan.github.io/html-css-js-calculator/
 
 ## Screenshots  
 ![image](https://github.com/user-attachments/assets/8ecd050d-b2a5-4250-9d05-98ca76cc8098)
